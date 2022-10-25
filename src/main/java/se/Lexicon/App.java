@@ -4,9 +4,17 @@ package se.Lexicon;
 public class App {
     public static void main(String[] args) {
 
+        StringEx5.ex5();
 
-        String opinions = "Java is the worst programming language!";
-        System.out.println(opinions.replace("worst", "best"));
+        //int num = 20;
+
+       // System.out.println(num,int[]20);
+
+
+        // String letters = "\tJ\ta\tv\ta\t";
+            //System.out.println(letters.trim());
+        //String opinions = "Java is the worst programming language!";
+        //System.out.println(opinions.replace("worst", "best"));
 
 
        /* String sentence = "CAPS EQUALS SCREAMING";

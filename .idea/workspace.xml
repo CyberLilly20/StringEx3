@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a6c192-7180-491c-817c-1773ff1cfac5" name="Changes" comment="String ex3">
+    <list default="true" id="d4a6c192-7180-491c-817c-1773ff1cfac5" name="Changes" comment="Ex5">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx11.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/se/Lexicon/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/se/Lexicon/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/Lexicon/StringEx3.java" afterDir="false" />
     </list>
@@ -48,6 +53,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.Lexicon.App" />
+      <module name="IndexTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.Lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,7 +100,19 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1666618093216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="String ex4">
+      <created>1666698919991</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1666698919991</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Ex5">
+      <created>1666701896064</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1666701896064</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +129,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="String ex2" />
     <MESSAGE value="String ex3" />
-    <option name="LAST_COMMIT_MESSAGE" value="String ex3" />
+    <MESSAGE value="String ex4" />
+    <MESSAGE value="Ex5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex5" />
   </component>
 </project>

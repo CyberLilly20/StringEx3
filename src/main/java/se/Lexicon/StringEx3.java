@@ -6,7 +6,7 @@ package se.Lexicon;
  *
  */
 public class StringEx3 {
-    public static void mein(String[] args){
+    public static void StringEx3(){
 
         String sen = "Even longer example sentence";
         System.out.println(sen.indexOf('o'));
