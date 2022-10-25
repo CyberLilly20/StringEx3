@@ -3,7 +3,13 @@ package se.Lexicon;
 
 public class App {
     public static void main(String[] args) {
-        String sentence = "CAPS EQUALS SCREAMING";
+
+
+        String opinions = "Java is the worst programming language!";
+        System.out.println(opinions.replace("worst", "best"));
+
+
+       /* String sentence = "CAPS EQUALS SCREAMING";
         System.out.println(sentence);
         String upperCase ="CAPS EQUALS SCREAMING";
         String toLowerCase = upperCase.toLowerCase();
@@ -13,7 +19,7 @@ public class App {
 
 
         System.out.println("Lower Case:" + " " + sentence.toLowerCase());
-        System.out.println("Upper Case:" + " " + sentence.toUpperCase());
+        System.out.println("Upper Case:" + " " + sentence.toUpperCase());*/
 
 
     }
